@@ -57,3 +57,14 @@ button {
   color: #333;
   margin-top: 20px;
 }
+#join {
+  text-align: center;
+  color: #333;
+  margin-top: 20px;
+}
+input {
+  margin: 10px;
+}
+button {
+  margin: 10px;
+}
